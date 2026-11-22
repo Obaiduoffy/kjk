@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Obaid Digital Pro</string>
+    <string name="title_activity_main">Obaid Digital Pro</string>
+    <string name="package_name">com.obaiddigitalpro.app</string>
+    <string name="custom_url_scheme">com.obaiddigitalpro.app</string>
+</resources>
